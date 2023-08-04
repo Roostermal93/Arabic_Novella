@@ -1,1 +1,28 @@
-ew0KICAgICJjb3VudCI6IDMsDQogICAgIm5leHQiOiBudWxsLA0KICAgICJwcmV2aW91cyI6IG51bGwsDQogICAgInJlc3VsdHMiOiBbDQogICAgICAgIHsNCiAgICAgICAgICAgICJpZCI6ICI0ODUxMmZjNy1jZTIxLTQ2NTAtOWRjMC1mOTA4ZmY3NmIxYjYiLA0KICAgICAgICAgICAgImNvbGxlY3Rpb25JZCI6ICJBcmFiaWMiLA0KICAgICAgICAgICAgInR5cGUiOiAiTm92ZWxsYSIsDQogICAgICAgICAgICAic3RhdHVzIjogInByaXZhdGUiLA0KICAgICAgICAgICAgInZpZGVvVXJsIjogImh0dHBzOi8vd3d3LnRoZWFydG9mZHJvd25pbmcuY29tL0FJQ29udGVudC9Ob3ZlbGxhL0FyYWJpYy80ODUxMmZjNy1jZTIxLTQ2NTAtOWRjMC1mOTA4ZmY3NmIxYjYvNDg1MTJmYzctY2UyMS00NjUwLTlkYzAtZjkwOGZmNzZiMWI2Lm1wNCINCiAgICAgICAgfSwNCiAgICAgICAgew0KICAgICAgICAgICAgImlkIjogImNmZTcyYmIzLTEwMzItNGRlNC1iNTExLWNlYTVmMDgxYWJjMCIsDQogICAgICAgICAgICAiY29sbGVjdGlvbklkIjogIkFyYWJpYyIsDQogICAgICAgICAgICAidHlwZSI6ICJOb3ZlbGxhIiwNCiAgICAgICAgICAgICJzdGF0dXMiOiAicHJpdmF0ZSIsDQogICAgICAgICAgICAidmlkZW9VcmwiOiAiaHR0cHM6Ly93d3cudGhlYXJ0b2Zkcm93bmluZy5jb20vQUlDb250ZW50L05vdmVsbGEvQXJhYmljL2NmZTcyYmIzLTEwMzItNGRlNC1iNTExLWNlYTVmMDgxYWJjMC9jZmU3MmJiMy0xMDMyLTRkZTQtYjUxMS1jZWE1ZjA4MWFiYzAubXA0Ig0KICAgICAgICB9LA0KICAgICAgICB7DQogICAgICAgICAgICAiaWQiOiAiOWZiZmFmZmYtODFmYS00MDkxLTlmNmUtNzZhNjIwOTE1MDM2IiwNCiAgICAgICAgICAgICJjb2xsZWN0aW9uSWQiOiAiQXJhYmljIiwNCiAgICAgICAgICAgICJ0eXBlIjogIk5vdmVsbGEiLA0KICAgICAgICAgICAgInN0YXR1cyI6ICJwcml2YXRlIiwNCiAgICAgICAgICAgICJ2aWRlb1VybCI6ICJodHRwczovL3d3dy50aGVhcnRvZmRyb3duaW5nLmNvbS9BSUNvbnRlbnQvTm92ZWxsYS9BcmFiaWMvOWZiZmFmZmYtODFmYS00MDkxLTlmNmUtNzZhNjIwOTE1MDM2LzlmYmZhZmZmLTgxZmEtNDA5MS05ZjZlLTc2YTYyMDkxNTAzNi5tcDQiDQogICAgICAgIH0NCiAgICBdDQp9
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "48512fc7-ce21-4650-9dc0-f908ff76b1b6",
+            "collectionId": "Arabic",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Arabic/Arabic_Novella/48512fc7-ce21-4650-9dc0-f908ff76b1b6/48512fc7-ce21-4650-9dc0-f908ff76b1b6_ar_Female.mp4"
+        },
+        {
+            "id": "cfe72bb3-1032-4de4-b511-cea5f081abc0",
+            "collectionId": "Arabic",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Arabic/Arabic_Novella/cfe72bb3-1032-4de4-b511-cea5f081abc0/cfe72bb3-1032-4de4-b511-cea5f081abc0_ar_Male.mp4"
+        },
+        {
+            "id": "9fbfafff-81fa-4091-9f6e-76a620915036",
+            "collectionId": "Arabic",
+            "type": "Novella",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Arabic/Arabic_Novella/9fbfafff-81fa-4091-9f6e-76a620915036/9fbfafff-81fa-4091-9f6e-76a620915036_ar_Female.mp4"
+        }
+    ]
+}
